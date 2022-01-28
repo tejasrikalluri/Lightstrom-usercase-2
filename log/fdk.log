@@ -1,0 +1,538 @@
+2021-12-26 18:55:39.811 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v10.22.0 on win32[0m
+2021-12-26 18:55:40.996 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "E:\Tejasri\FService\createChangePOC/.fdk/store.sqlite"[0m
+2021-12-26 18:55:41.203 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"create","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-12-26 18:55:41.203 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640432567092}}[0m
+2021-12-26 18:55:41.204 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640432567092}}[0m
+2021-12-26 18:55:41.204 +0530 [debug] ([34mupdater.js[0m) [31mChecking for availability of new version of addon[0m
+2021-12-26 18:55:41.524 +0530 [debug] ([34mupdater.js[0m) [31mAddon is already at the latest version - 1.9.10[0m
+2021-12-26 18:55:41.525 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640432567092}}[0m
+2021-12-26 18:55:41.528 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640432567092}}[0m
+2021-12-26 18:55:41.782 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:55:41.847 +0530 [debug] ([34minit.js[0m) [31m'init' called with E:\Tejasri\FService\createChangePOC, undefined, undefined[0m
+2021-12-26 18:55:45.707 +0530 [debug] ([34minit.js[0m) [31mInitializing template "your_first_app" with product "freshservice".[0m
+2021-12-26 18:55:45.840 +0530 [info] A new Freshservice app was successfully created from template "your_first_app" with the following files.
+
+2021-12-26 18:55:53.049 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v10.22.0 on win32[0m
+2021-12-26 18:55:54.243 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "E:\Tejasri\FService\createChangePOC/.fdk/store.sqlite"[0m
+2021-12-26 18:55:54.483 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-12-26 18:55:54.484 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:55:54.485 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:55:54.485 +0530 [debug] ([34mupdater.js[0m) [31mCheck interval not met, skipping addon update[0m
+2021-12-26 18:55:54.846 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.1","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[]}.[0m
+2021-12-26 18:55:54.847 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2021-12-26 18:55:54.850 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:55:54.871 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:55:55.407 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring E:\Tejasri\FService\createChangePOC/.report.json: Cannot find module 'E:\Tejasri\FService\createChangePOC/.report.json'[0m
+2021-12-26 18:55:56.652 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:55:58.067 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2021-12-26 18:55:58.067 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2021-12-26 18:55:58.068 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2021-12-26 18:55:58.069 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2021-12-26 18:55:58.069 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if E:\Tejasri\FService\createChangePOC/config/ exists.[0m
+2021-12-26 18:55:58.069 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2021-12-26 18:55:58.069 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2021-12-26 18:55:58.070 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2021-12-26 18:55:58.070 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2021-12-26 18:55:58.072 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2021-12-26 18:55:58.072 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2021-12-26 18:55:58.073 +0530 [debug] ([34mmanifest.js[0m) [31mChoosing Default validator[0m
+2021-12-26 18:55:58.074 +0530 [warn] 
+        [33m[WARN][0m We recommend to move to platform version 2.2 as we plan to deprecate the previous versions soon.
+        Please refer https://community.developers.freshworks.com/t/how-to-migrate-to-platform-version-2-2/3443 to know more details
+
+2021-12-26 18:55:58.078 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2021-12-26 18:55:58.078 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2021-12-26 18:55:58.078 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2021-12-26 18:55:58.078 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2021-12-26 18:55:58.082 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2021-12-26 18:55:58.168 +0530 [error] uncaughtException: listen EADDRINUSE: address already in use :::10001
+Error: listen EADDRINUSE: address already in use :::10001
+    at Server.setupListenHandle [as _listen2] (net.js:1280:14)
+    at listenInCluster (net.js:1328:12)
+    at Server.listen (net.js:1415:7)
+    at Function.serverListen [as listen] (C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\node_modules\express-ws\lib\index.js:42:40)
+    at Promise (C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\cli\run.js:65:24)
+    at new Promise (<anonymous>)
+    at listenOn (C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\cli\run.js:64:10)
+    at Object.run (C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\cli\run.js:222:26)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+{"error":{"code":"EADDRINUSE","errno":"EADDRINUSE","syscall":"listen","address":"::","port":10001},"level":"error","message":"uncaughtException: listen EADDRINUSE: address already in use :::10001\nError: listen EADDRINUSE: address already in use :::10001\n    at Server.setupListenHandle [as _listen2] (net.js:1280:14)\n    at listenInCluster (net.js:1328:12)\n    at Server.listen (net.js:1415:7)\n    at Function.serverListen [as listen] (C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\node_modules\\express-ws\\lib\\index.js:42:40)\n    at Promise (C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js:65:24)\n    at new Promise (<anonymous>)\n    at listenOn (C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js:64:10)\n    at Object.run (C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js:222:26)\n    at process._tickCallback (internal/process/next_tick.js:68:7)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)\n    at startup (internal/bootstrap/node.js:283:19)\n    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)","stack":"Error: listen EADDRINUSE: address already in use :::10001\n    at Server.setupListenHandle [as _listen2] (net.js:1280:14)\n    at listenInCluster (net.js:1328:12)\n    at Server.listen (net.js:1415:7)\n    at Function.serverListen [as listen] (C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\node_modules\\express-ws\\lib\\index.js:42:40)\n    at Promise (C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js:65:24)\n    at new Promise (<anonymous>)\n    at listenOn (C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js:64:10)\n    at Object.run (C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js:222:26)\n    at process._tickCallback (internal/process/next_tick.js:68:7)\n    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)\n    at startup (internal/bootstrap/node.js:283:19)\n    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)","exception":true,"date":"Sun Dec 26 2021 18:55:58 GMT+0530 (India Standard Time)","process":{"pid":11332,"uid":null,"gid":null,"cwd":"E:\\Tejasri\\FService\\createChangePOC","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v10.22.0","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\index.js","run"],"memoryUsage":{"rss":125399040,"heapTotal":103211008,"heapUsed":68631488,"external":1884842}},"os":{"loadavg":[0,0,0],"uptime":420863},"trace":[{"column":14,"file":"net.js","function":"Server.setupListenHandle [as _listen2]","line":1280,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"net.js","function":"listenInCluster","line":1328,"method":null,"native":false},{"column":7,"file":"net.js","function":"Server.listen","line":1415,"method":"listen","native":false},{"column":40,"file":"C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\node_modules\\express-ws\\lib\\index.js","function":"Function.serverListen [as listen]","line":42,"method":"serverListen [as listen]","native":false},{"column":24,"file":"C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js","function":"Promise","line":65,"method":null,"native":false},{"column":null,"file":null,"function":"new Promise","line":null,"method":null,"native":false},{"column":10,"file":"C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js","function":"listenOn","line":64,"method":null,"native":false},{"column":26,"file":"C:\\Users\\LENOVO\\AppData\\Roaming\\npm\\node_modules\\fdk\\lib\\cli\\run.js","function":"Object.run","line":222,"method":"run","native":false},{"column":7,"file":"internal/process/next_tick.js","function":"process._tickCallback","line":68,"method":"_tickCallback","native":false},{"column":11,"file":"internal/modules/cjs/loader.js","function":"Module.runMain","line":834,"method":"runMain","native":false},{"column":19,"file":"internal/bootstrap/node.js","function":"startup","line":283,"method":null,"native":false},{"column":3,"file":"internal/bootstrap/node.js","function":"bootstrapNodeJSCore","line":623,"method":null,"native":false}]}
+2021-12-26 18:56:18.316 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v10.22.0 on win32[0m
+2021-12-26 18:56:19.463 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "E:\Tejasri\FService\createChangePOC/.fdk/store.sqlite"[0m
+2021-12-26 18:56:19.638 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-12-26 18:56:19.639 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:56:19.639 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:56:19.639 +0530 [debug] ([34mupdater.js[0m) [31mCheck interval not met, skipping addon update[0m
+2021-12-26 18:56:19.963 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.1","product":{"freshservice":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[]}.[0m
+2021-12-26 18:56:19.963 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2021-12-26 18:56:19.967 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:56:19.989 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:56:21.646 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:56:23.047 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2021-12-26 18:56:23.048 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2021-12-26 18:56:23.048 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2021-12-26 18:56:23.049 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2021-12-26 18:56:23.049 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if E:\Tejasri\FService\createChangePOC/config/ exists.[0m
+2021-12-26 18:56:23.050 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2021-12-26 18:56:23.050 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2021-12-26 18:56:23.050 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2021-12-26 18:56:23.050 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2021-12-26 18:56:23.052 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2021-12-26 18:56:23.052 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2021-12-26 18:56:23.053 +0530 [debug] ([34mmanifest.js[0m) [31mChoosing Default validator[0m
+2021-12-26 18:56:23.055 +0530 [warn] 
+        [33m[WARN][0m We recommend to move to platform version 2.2 as we plan to deprecate the previous versions soon.
+        Please refer https://community.developers.freshworks.com/t/how-to-migrate-to-platform-version-2-2/3443 to know more details
+
+2021-12-26 18:56:23.059 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2021-12-26 18:56:23.059 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2021-12-26 18:56:23.059 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2021-12-26 18:56:23.059 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2021-12-26 18:56:23.063 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2021-12-26 18:56:23.069 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 18:56:23.070 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? false[0m
+2021-12-26 18:56:23.070 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync db[0m
+2021-12-26 18:56:24.052 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\bigint-pivot.js"[0m
+2021-12-26 18:56:24.054 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field-choice.js"[0m
+2021-12-26 18:56:24.055 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field.js"[0m
+2021-12-26 18:56:24.056 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity.js"[0m
+2021-12-26 18:56:24.057 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\record.js"[0m
+2021-12-26 18:56:24.059 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\string-pivot.js"[0m
+2021-12-26 18:56:24.079 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 18:56:24.080 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2021-12-26 18:56:24.082 +0530 [info] Starting local testing server at http://*:10001/    
+Append 'dev=true' to your Freshservice account URL to start testing    
+e.g. https://domain.freshservice.com/helpdesk/tickets/1?dev=true    
+Quit the server with Control-C.
+2021-12-26 18:58:15.400 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 18:58:15.401 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 18:58:18.883 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 18:58:18.884 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 18:58:18.885 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 18:58:21.872 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 18:58:21.873 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 18:58:21.874 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 18:59:00.049 +0530 [debug] ([34mmanifest.js[0m) [31mError while parsing manifest file Unexpected end of JSON input[0m
+2021-12-26 18:59:07.230 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v10.22.0 on win32[0m
+2021-12-26 18:59:09.139 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "E:\Tejasri\FService\createChangePOC/.fdk/store.sqlite"[0m
+2021-12-26 18:59:09.434 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-12-26 18:59:09.436 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:59:09.437 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:59:09.437 +0530 [debug] ([34mupdater.js[0m) [31mCheck interval not met, skipping addon update[0m
+2021-12-26 18:59:09.827 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.1","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[]}.[0m
+2021-12-26 18:59:09.828 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2021-12-26 18:59:09.838 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:59:09.862 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:59:12.309 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 18:59:14.090 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2021-12-26 18:59:14.091 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2021-12-26 18:59:14.091 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2021-12-26 18:59:14.092 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2021-12-26 18:59:14.092 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if E:\Tejasri\FService\createChangePOC/config/ exists.[0m
+2021-12-26 18:59:14.093 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2021-12-26 18:59:14.093 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2021-12-26 18:59:14.093 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2021-12-26 18:59:14.093 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2021-12-26 18:59:14.096 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2021-12-26 18:59:14.096 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2021-12-26 18:59:14.096 +0530 [debug] ([34mmanifest.js[0m) [31mChoosing Default validator[0m
+2021-12-26 18:59:14.099 +0530 [warn] 
+        [33m[WARN][0m We recommend to move to platform version 2.2 as we plan to deprecate the previous versions soon.
+        Please refer https://community.developers.freshworks.com/t/how-to-migrate-to-platform-version-2-2/3443 to know more details
+
+2021-12-26 18:59:14.102 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2021-12-26 18:59:14.102 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2021-12-26 18:59:14.103 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2021-12-26 18:59:14.103 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2021-12-26 18:59:14.107 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2021-12-26 18:59:14.114 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 18:59:14.115 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? false[0m
+2021-12-26 18:59:14.115 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync db[0m
+2021-12-26 18:59:16.287 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\bigint-pivot.js"[0m
+2021-12-26 18:59:16.290 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field-choice.js"[0m
+2021-12-26 18:59:16.290 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field.js"[0m
+2021-12-26 18:59:16.291 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity.js"[0m
+2021-12-26 18:59:16.292 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\record.js"[0m
+2021-12-26 18:59:16.293 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\string-pivot.js"[0m
+2021-12-26 18:59:16.314 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 18:59:16.315 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2021-12-26 18:59:16.317 +0530 [info] Starting local testing server at http://*:10001/    
+Append 'dev=true' to your Freshservice account URL to start testing    
+e.g. https://domain.freshservice.com/helpdesk/tickets/1?dev=true    
+Quit the server with Control-C.
+2021-12-26 19:00:17.741 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:00:17.742 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:00:17.743 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:00:18.157 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:00:18.212 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:00:18.213 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:00:20.128 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:00:20.129 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:00:20.129 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:00:20.468 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:00:22.444 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:00:59.108 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:00:59.109 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:00:59.111 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:00:59.117 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:00:59.122 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:00:59.187 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:00:59.188 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:01:01.839 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:01:08.182 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:01:08.183 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:01:08.183 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:01:08.613 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:01:08.681 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:01:08.682 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:01:10.786 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:01:11.731 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:01:11.732 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:01:11.732 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:01:12.781 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:01:26.789 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:01:38.847 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:03:27.193 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:03:27.194 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:03:27.195 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:03:27.211 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:03:27.281 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:03:27.282 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:03:29.840 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:03:52.483 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:03:52.484 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:03:52.484 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:03:54.939 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:03:55.025 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:03:55.026 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:03:56.090 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:03:56.090 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:03:56.091 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:03:57.189 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:04:15.143 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:04:23.851 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:04:42.806 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:42.807 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:42.809 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:42.833 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:04:42.876 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:04:42.877 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:04:45.851 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:04:45.851 +0530 [debug] ([34mcoverage-util.js[0m) [31mError Cannot read property 'start' of undefined while writing coverage report.[0m
+2021-12-26 19:04:45.852 +0530 [debug] ([34mcoverage-util.js[0m) [31mFlushing coverage.[0m
+2021-12-26 19:04:48.489 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:48.491 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:48.492 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:48.496 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:04:48.504 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:04:48.549 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:04:48.550 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:04:50.291 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:50.292 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:50.294 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:50.297 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:04:50.312 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:04:50.359 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:04:50.360 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:04:52.847 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:04:58.236 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:58.238 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:58.240 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:04:58.253 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:04:58.286 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:04:58.287 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:05:00.840 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:05:01.123 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:01.124 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:01.125 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:01.136 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:05:01.147 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:05:01.149 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:05:01.185 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:05:01.185 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:05:03.837 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:05:07.666 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:07.667 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:07.667 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:05:10.496 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:05:10.581 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:05:10.582 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:05:11.804 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:11.805 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:11.805 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:05:12.688 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:05:34.583 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:34.585 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:34.598 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:05:34.613 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:34.639 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:05:34.640 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:05:36.578 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:36.581 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:36.587 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:05:36.603 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:05:36.617 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:05:36.618 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:05:38.659 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:05:40.670 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:40.670 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:40.670 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:05:40.932 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:05:40.988 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:05:40.989 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:05:43.137 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:05:44.609 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:44.610 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:44.610 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:05:54.122 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:54.122 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:54.123 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:05:54.391 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:05:54.451 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:05:54.452 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:05:56.551 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:05:57.974 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:57.975 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:05:57.975 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.1","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_sidebar":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:06:46.482 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.1","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[]}.[0m
+2021-12-26 19:06:46.482 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2021-12-26 19:06:46.483 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"manifest.json"}" to all listeners.[0m
+2021-12-26 19:06:46.483 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.1","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[]}.[0m
+2021-12-26 19:06:46.484 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2021-12-26 19:06:46.484 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"manifest.json"}" to all listeners.[0m
+2021-12-26 19:06:46.500 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:06:46.553 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:06:46.554 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:06:48.857 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:06:51.407 +0530 [debug] ([34mmanifest.js[0m) [31mError while parsing manifest file Unexpected end of JSON input[0m
+2021-12-26 19:06:53.994 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v10.22.0 on win32[0m
+2021-12-26 19:06:55.180 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "E:\Tejasri\FService\createChangePOC/.fdk/store.sqlite"[0m
+2021-12-26 19:06:55.393 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-12-26 19:06:55.394 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 19:06:55.394 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 19:06:55.394 +0530 [debug] ([34mupdater.js[0m) [31mCheck interval not met, skipping addon update[0m
+2021-12-26 19:06:55.753 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.2","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[]}.[0m
+2021-12-26 19:06:55.754 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2021-12-26 19:06:55.759 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 19:06:55.783 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 19:06:57.251 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"6.13.2","dl":"https://dl.freshdev.io/cli/fdk-6.13.2.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-6.13.2.tgz -g"},"addon":{"version":"1.9.10","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.10.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1640525141527}}[0m
+2021-12-26 19:06:58.847 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2021-12-26 19:06:58.847 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2021-12-26 19:06:58.848 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2021-12-26 19:06:58.848 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2021-12-26 19:06:58.849 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if E:\Tejasri\FService\createChangePOC/config/ exists.[0m
+2021-12-26 19:06:58.849 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2021-12-26 19:06:58.849 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2021-12-26 19:06:58.849 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2021-12-26 19:06:58.850 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2021-12-26 19:06:58.852 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2021-12-26 19:06:58.852 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2021-12-26 19:06:58.852 +0530 [debug] ([34mmanifest.js[0m) [31mChoosing Manifest 2.2 validator[0m
+2021-12-26 19:06:58.855 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2021-12-26 19:06:58.855 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2021-12-26 19:06:58.855 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2021-12-26 19:06:58.856 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2021-12-26 19:06:58.859 +0530 [debug] ([34mvalidators.js[0m) [31mValidating manifest with pfVersion 2.2[0m
+2021-12-26 19:06:58.861 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2021-12-26 19:06:58.868 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:06:58.869 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? false[0m
+2021-12-26 19:06:58.869 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync db[0m
+2021-12-26 19:07:00.457 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\bigint-pivot.js"[0m
+2021-12-26 19:07:00.464 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field-choice.js"[0m
+2021-12-26 19:07:00.466 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field.js"[0m
+2021-12-26 19:07:00.468 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity.js"[0m
+2021-12-26 19:07:00.471 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\record.js"[0m
+2021-12-26 19:07:00.473 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\string-pivot.js"[0m
+2021-12-26 19:07:00.497 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:07:00.498 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2021-12-26 19:07:00.500 +0530 [info] Starting local testing server at http://*:10001/    
+Append 'dev=true' to your Freshservice account URL to start testing    
+e.g. https://domain.freshservice.com/helpdesk/tickets/1?dev=true    
+Quit the server with Control-C.
+2021-12-26 19:07:22.923 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:07:22.924 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:07:22.924 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:07:25.525 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:07:25.614 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:07:25.615 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:07:26.632 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:07:26.633 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:07:26.633 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:07:27.857 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:07:39.820 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:08:48.137 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:08:48.139 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:08:48.140 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:08:48.157 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:08:48.213 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:08:48.214 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:08:50.316 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:08:50.317 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:08:50.318 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:08:50.324 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:08:50.327 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:08:50.361 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:08:50.361 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:08:52.838 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:09:00.640 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:09:00.641 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:09:00.641 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:09:02.976 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:09:03.040 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:09:03.040 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:09:04.127 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:09:04.128 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:09:04.128 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:09:05.165 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:09:13.161 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:09:53.856 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:09:53.857 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:09:53.859 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:09:53.866 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:09:53.869 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:09:53.900 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:09:53.901 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:09:55.966 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:10:16.674 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:10:16.675 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:10:16.676 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:10:16.685 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:10:16.688 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:10:16.730 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:10:16.730 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:10:18.864 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:10:21.525 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:10:21.526 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:10:21.527 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:10:21.534 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:10:21.538 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:10:21.577 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:10:21.578 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:10:23.718 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:10:23.718 +0530 [debug] ([34mcoverage-util.js[0m) [31mError Cannot read property 'start' of undefined while writing coverage report.[0m
+2021-12-26 19:10:23.718 +0530 [debug] ([34mcoverage-util.js[0m) [31mFlushing coverage.[0m
+2021-12-26 19:10:30.951 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:10:30.951 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:10:30.952 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:10:31.996 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:10:32.128 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:10:32.129 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:10:34.223 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:10:35.685 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:10:35.686 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:10:35.686 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:10:36.223 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:10:48.216 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:11:01.546 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:11:01.547 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:11:01.547 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:11:02.069 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:11:02.139 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:11:02.140 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:11:04.211 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:11:05.484 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:11:05.485 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:11:05.485 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:11:18.204 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:19:22.491 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:19:22.492 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:19:22.492 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:19:25.920 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:19:26.032 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:19:26.033 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:19:27.463 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:19:27.464 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:19:27.464 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:19:28.208 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:19:42.100 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:23:19.447 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:23:19.448 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:23:19.448 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:23:22.536 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:23:22.631 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:23:22.632 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:23:24.119 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:23:24.119 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-12-26 19:23:24.120 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"createChangePOC","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"createChangePOC","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2021-12-26 19:23:24.723 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-12-26 19:27:30.038 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:27:30.039 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:27:30.041 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-12-26 19:27:30.061 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-12-26 19:27:30.133 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-12-26 19:27:30.133 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\createChangePOC\app\scripts\app.js[0m
+2021-12-26 19:27:32.842 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2022-01-28 21:48:45.611 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v12.22.9 on win32[0m
+2022-01-28 21:48:46.799 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "E:\Tejasri\FService\Lightstrom usercase-2/.fdk/store.sqlite"[0m
+2022-01-28 21:48:46.975 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2022-01-28 21:48:46.977 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.3.0","dl":"https://dl.freshdev.io/cli/fdk-7.3.0.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.3.0.tgz -g"},"addon":{"version":"1.9.19","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.19.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1643384369796}}[0m
+2022-01-28 21:48:46.978 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than an day ago, not looking for updates[0m
+2022-01-28 21:48:47.296 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.2","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[]}.[0m
+2022-01-28 21:48:47.297 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2022-01-28 21:48:47.300 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.3.0","dl":"https://dl.freshdev.io/cli/fdk-7.3.0.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.3.0.tgz -g"},"addon":{"version":"1.9.19","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.19.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1643384369796}}[0m
+2022-01-28 21:48:47.317 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.3.0","dl":"https://dl.freshdev.io/cli/fdk-7.3.0.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.3.0.tgz -g"},"addon":{"version":"1.9.19","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.19.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1643384369796}}[0m
+2022-01-28 21:48:49.700 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.3.0","dl":"https://dl.freshdev.io/cli/fdk-7.3.0.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.3.0.tgz -g"},"addon":{"version":"1.9.19","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.19.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1643384369796}}[0m
+2022-01-28 21:48:50.887 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2022-01-28 21:48:50.888 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2022-01-28 21:48:50.888 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2022-01-28 21:48:50.889 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2022-01-28 21:48:50.890 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if E:\Tejasri\FService\Lightstrom usercase-2/config/ exists.[0m
+2022-01-28 21:48:50.890 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2022-01-28 21:48:50.890 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2022-01-28 21:48:50.890 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2022-01-28 21:48:50.890 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2022-01-28 21:48:50.893 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2022-01-28 21:48:50.893 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2022-01-28 21:48:50.893 +0530 [debug] ([34mmanifest.js[0m) [31mrunning manifest validation with type run_validation[0m
+2022-01-28 21:48:50.893 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2022-01-28 21:48:50.894 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2022-01-28 21:48:50.894 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2022-01-28 21:48:50.894 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2022-01-28 21:48:50.894 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2022-01-28 21:48:50.896 +0530 [warn] [33m[WARN][0m App was developed in Node.js runtime 10 or below, and is currently being executed in v12.22.9
+2022-01-28 21:49:24.075 +0530 [debug] ([34mversion-check.js[0m) [31mDeleting coverage folder[0m
+2022-01-28 21:49:24.131 +0530 [debug] ([34mversion-check.js[0m) [31mDeleting node_modules folder[0m
+2022-01-28 21:49:24.132 +0530 [debug] ([34mversion-check.js[0m) [31mModifying Node.js version in manifest[0m
+2022-01-28 21:49:24.133 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.2","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"12.22.9","fdk":"7.3.0"}}.[0m
+2022-01-28 21:49:24.134 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2022-01-28 21:49:24.135 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2022-01-28 21:49:24.142 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 21:49:24.142 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? false[0m
+2022-01-28 21:49:24.142 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync db[0m
+2022-01-28 21:49:26.014 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\bigint-pivot.js"[0m
+2022-01-28 21:49:26.024 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field-choice.js"[0m
+2022-01-28 21:49:26.026 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field.js"[0m
+2022-01-28 21:49:26.028 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\entity.js"[0m
+2022-01-28 21:49:26.030 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\record.js"[0m
+2022-01-28 21:49:26.032 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\LENOVO\AppData\Roaming\npm\node_modules\fdk\lib\models\string-pivot.js"[0m
+2022-01-28 21:49:26.059 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 21:49:26.059 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2022-01-28 21:49:26.060 +0530 [info] Starting local testing server at http://*:10001/    
+Append 'dev=true' to your Freshservice account URL to start testing    
+e.g. https://domain.freshservice.com/helpdesk/tickets/1?dev=true    
+Quit the server with Control-C.
+2022-01-28 22:01:29.225 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2022-01-28 22:01:29.226 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2022-01-28 22:01:29.227 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2022-01-28 22:03:10.166 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 22:03:10.167 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 22:03:10.168 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Lightstrom usercase-2","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"Lightstrom usercase-2","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2022-01-28 22:03:10.434 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 22:03:10.435 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 22:03:10.436 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Lightstrom usercase-2","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"Lightstrom usercase-2","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2022-01-28 22:03:11.740 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2022-01-28 22:03:11.748 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2022-01-28 22:03:11.789 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"styles\\images\\icon.svg"}" to all listeners.[0m
+2022-01-28 22:03:11.792 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"styles\\style.css"}" to all listeners.[0m
+2022-01-28 22:03:11.839 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2022-01-28 22:03:11.840 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting E:\Tejasri\FService\Lightstrom usercase-2\app\scripts\app.js[0m
+2022-01-28 22:03:12.010 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"styles\\images\\rocket.svg"}" to all listeners.[0m
+2022-01-28 22:03:12.213 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 22:03:12.214 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 22:03:12.215 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Lightstrom usercase-2","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[{"id":1,"version_id":1,"configs":{},"displayName":"Lightstrom usercase-2","placeholders":{"new_change_background":{"url":"http://localhost:10001/iframe/index.html","icon":"styles/images/icon.svg"}}}]}[0m
+2022-01-28 22:03:14.053 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2022-01-28 22:03:17.414 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2022-01-28 22:03:17.414 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Lightstrom usercase-2","product":{"freshservice":{"location":{"new_change_background":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshservice"],"platform":"2.2","v2":[]}[0m
