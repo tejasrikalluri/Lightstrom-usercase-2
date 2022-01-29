@@ -10,7 +10,9 @@
       }
     }
   },
-  "whitelisted-domains": [],
+  "whitelisted-domains": [
+    "https://*.freshservice.com"
+  ],
   "engines": {
     "node": "12.22.9",
     "fdk": "7.3.0"

@@ -1,6 +1,8 @@
 ## Your First App
 
-This app displays the name of the requester of a Freshservice ticket in the ticket_sidebar placeholder
+On a new Change ticket page when an Agent enters a backdate date (less than current date) in the ‘Planned Start Date’ field the custom app will execute following activities:
+• Display alert notification message: “Planned Start Date can’t be less than today’s date” and reset the 'Planned Start Date' field value to todays date.
+
 
 ### Files and Folders
     .
@@ -17,5 +19,3 @@ This app displays the name of the requester of a Freshservice ticket in the tick
     ├── config                        A folder to hold all the app's configuration files
     │   └── iparams.json
     └── manifest.json                 A JSON file holding meta data for app to run on platform
-
-Explore [more of app sample codes](https://github.com/freshworks/marketplace-sample-apps) on the Freshworks Github respository.
